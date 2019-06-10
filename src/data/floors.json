@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Rez-de-chaussée",
+    "members": [
+      {
+        "name": "Jenny Day",
+        "pictureUrl": "http://fr.web.img5.acsta.net/r_1280_720/medias/nmedia/18/35/52/34/18830397.jpg"
+      },
+      {
+        "name": "Mildred Simon",
+        "role": "Gardien",
+        "pictureUrl": "https://i.pinimg.com/236x/71/8e/8a/718e8a5eaafd788eb51f98415338b4ef.jpg"
+      },
+      {
+        "name": "Elmer Richards",
+        "pictureUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg"
+      },
+      {
+        "name": "Clyde Ortiz",
+        "pictureUrl": "https://sagseurfruatshakhrservic.blob.core.windows.net/profilepicture/509d55f3-7f51-41d0-a8fd-a690c5ebf90f?etag=0x8D6287A54E83B3D"
+      },
+      { "name": "Celia Sparks" }
+    ]
+  },
+  {
+    "name": "1er étage",
+    "members": [
+      {
+        "name": "Marvin Harrington",
+        "role": "Membre du conseil syndical",
+        "pictureUrl": "https://i.pinimg.com/236x/71/8e/8a/718e8a5eaafd788eb51f98415338b4ef.jpg"
+      },
+      {
+        "name": "Victor Fox",
+        "pictureUrl": "http://fr.web.img5.acsta.net/r_1280_720/medias/nmedia/18/35/52/34/18830397.jpg"
+      },
+      {
+        "name": "Leonard Sherman",
+        "pictureUrl": "https://sagseurfruatshakhrservic.blob.core.windows.net/profilepicture/509d55f3-7f51-41d0-a8fd-a690c5ebf90f?etag=0x8D6287A54E83B3D"
+      },
+      {
+        "name": "Elmer Richards",
+        "pictureUrl": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/032/medium/oapgW_Fp_400x400.jpg"
+      },
+      { "name": "Celia Sparks" }
+    ]
+  }
+]
