@@ -4,7 +4,7 @@ React app example with functional components and styled-components
 
 In the project directory, you can run:
 
-### `npm` or `yarn`
+### `npm install` or `yarn install`
 
 Install the dependencies
 
